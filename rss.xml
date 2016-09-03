@@ -4,7 +4,7 @@
         <description><![CDATA[Bob's Bakery]]></description>
         <link>https://thegrid.ai/bob-s-bakery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 19:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 19:31:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bob-s-bakery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Good job you crushed it]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/bob-s-bakery/good-job-you-crushed-it/index.html</link>
             <guid isPermaLink="false">e967fda4-42fa-49c1-a64a-63a641666320</guid>
             <pubDate>Wed, 31 Aug 2016 19:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90a2730a5053b42a40fab331e940db36af0d838.gif"></article>]]></description>
-            <link>https://thegrid.ai/bob-s-bakery/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">c0fefd86-a5e1-4bf4-b646-13e948f5a144</guid>
-            <pubDate>Wed, 04 Nov 2015 02:00:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
