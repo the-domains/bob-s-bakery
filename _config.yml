@@ -1,19 +1,4 @@
-name: "Bob's Bakery"
-favicon: null
-layout_spectrum: 0.80387
 typography_spectrum: 0.47345012053847313
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#bab4a9'
@@ -25,4 +10,20 @@ color:
   lightness: 0.7115782813634723
   saturation: 0.6875
   rhythmicContrast: 0.4714879193343222
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.80387
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Bob's Bakery
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: 'Tasty, tasty treats'
 purpose: []
