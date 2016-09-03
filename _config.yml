@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Crush mode
+    id: e967fda4-42fa-49c1-a64a-63a641666320
+    type: content
 favicon: null
 title: Bob's Bakery
 description: 'Tasty, tasty treats'
